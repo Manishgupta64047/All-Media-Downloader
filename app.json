@@ -26,28 +26,28 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "5950572996:AAErjND8ywh2RtN__0HctuuGdmuVXPhSkBQ"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "12267130"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "6ddb28a13ffc2f15dc16f06be6ca3c1f"
     },
     "LOGS_CHANNEL": {
       "description": "id of log channel/group. leave this if you don't want to",
-      "value": "-1001794975559",
+      "value": "-1001950554467",
       "required": false
     },
     "OWNER_ID": {
       "description": "Your Telegram ID",
-      "value": ""
+      "value": "5259051520"
     },
     "DATABASE_URL": {
       "description": "Your MongoDB URI",
-      "value": ""
+      "value": "BQCO7qikmjBO89xaPoKosQj4qrP-nyOO7nfvL3pyE96yHngFOE2YB8KWCCpKoriVDoGhDjRcNk5hloDkKNOuUtO5d28EpfaowSr97WO1dBLeLgIU0THBMNPrBieZBC6vL6epteEg56_562Ls6LO"
     },
     "SESSION_NAME": {
       "description": "Your Session Name",
